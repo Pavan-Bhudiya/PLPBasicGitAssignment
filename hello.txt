@@ -1,0 +1,9 @@
+"Hello Git!"
+
+Create a new repository from GitHub.
+Create a folder locally on your machine.
+Opening the locol folder in VScode.
+Initializing the repository from the terminal in VSCode.
+Create the README file.
+Create the hello.txt and add the text content.
+Add, commit and push the files to the PLPBasicGitAssignment repository on github.
